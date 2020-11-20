@@ -84,3 +84,5 @@ Las próximas veces que se ejecute el `git push` no es necesario el `-u`
 	* Arreglos
 	* Cadenas de texto
 	* Objetos literales
+* Git (crear un repositorio, crear un commit, ver el historial, ver el estado del repositorio)
+* Github (crear el repositorio y publicar el historial local)
